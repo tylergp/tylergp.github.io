@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <br>
   <img src="/images/reverie-text.png" alt="Reverie" width="200"/>
   <br>  
@@ -19,10 +19,10 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 
 |  Responsiveness            |  Search | Categories |
 |---------------------|----------------------|----------------------|
-|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) |
+|![Responsiveness](/images/mobile-demo.png) | ![search](/images/search.png) | ![categories](/images/categories.png) | -->
 
-# Table of Contents
-  - [Features overview](#features-overview)
+# My Personal Project Website
+  <!-- - [Features overview](#features-overview)
   - [Using Reverie on GitHub Pages](#using-reverie-on-github-pages)
     - [1. Fork Reverie to your User Repository](#1-fork-reverie-to-your-user-repository)
     - [2. Customize and view your site](#2-customize-and-view-your-site)
@@ -137,7 +137,7 @@ Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if
 
 ## The name?
 
-reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
+reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup>  -->
 
 
 ## License
