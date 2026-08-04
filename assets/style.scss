@@ -308,10 +308,10 @@ p > img {
 }
 
 .site-location {
-  float: right;
+  float: left;
 
   @include mobile {
-    float: right;
+    float: none;
     display: block;
     margin: 0 auto;
   }
