@@ -279,8 +279,8 @@ p > img {
 
 .site-avatar {
   float: left;
-  width: 70px;
-  height: 70px;
+  width: 140px;
+  height: 140px;
   margin-right: 15px;
 
   @include mobile {
@@ -299,6 +299,16 @@ p > img {
 
 .site-info {
   float: left;
+
+  @include mobile {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.site-location {
+  float: right;
 
   @include mobile {
     float: none;
